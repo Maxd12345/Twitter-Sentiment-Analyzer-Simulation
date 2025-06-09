@@ -1,6 +1,6 @@
 # Twitter Sentimenter Analyzer Simulation
 
-This is a Python tool that analyzes the sentiment of tweets from a database of tweets (csv files). It analyzes tweets containing a keyword using TextBlob. This simulates taking tweets directly from Twitter. From this, it generates visualizations and exports of a multi-page pdf report.
+This is a Python tool that analyzes the sentiment of tweets from a database of tweets (csv files). It analyzes tweets containing a keyword using TextBlob. This simulates taking tweets directly from Twitter. From this, it generates visualizations and exports of a multi-page PDF report.
 
 # Features
 - Keyword-based tweet filtering
